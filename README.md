@@ -1,1 +1,3 @@
-GitFlow-Lab5 - Develop Version
+<<<<<<< HEAD
+GitFlow-Lab5 - Feature Version
+>>>>>>> feature/conflict
